@@ -1,0 +1,28 @@
+# Fdb version 4
+["latex"] 1708252956.21413 "c:/Users/cs23018/github/TeX-learning/test.tex" "out/test.dvi" "test" 1708252957.7168 2
+  "c:/Users/cs23018/github/TeX-learning/test.tex" 1708252410 240 864e99f8dd5f815b7c541c6e5bcd6ab3 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty" 1708223837 5949 3f3fd50a8cc94c3d4cbf4fc66cd3df1c ""
+  "c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty" 1708223841 2222 499d61426192c39efd8f410ee1a52b9c ""
+  "c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty" 1708223841 4173 82ac04dfb1256038fad068287fbb4fe6 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty" 1708223841 88371 d84032c0f422c3d1e282266c01bef237 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty" 1708223841 4474 b811654f4bf125f11506d13d13647efb ""
+  "c:/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty" 1708223841 2444 0d0c1ee65478277e8015d65b86983da2 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1708225961 1224 978390e9c2234eab29404bc21b268d1e ""
+  "c:/texlive/2023/texmf-dist/tex/latex/graphics-def/dvipdfmx.def" 1708225962 12296 04d6453afafd99986deba3629756d9ec ""
+  "c:/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty" 1708225958 18387 8f900a490197ebaf93c02ae9476d4b09 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty" 1708225958 8010 a8d949cbdbc5c983593827c9eec252e1 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty" 1708225958 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty" 1708225958 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-dvips.def" 1708226471 35584 af40d1a4049cb0a7cc2b70833befa00b ""
+  "c:/texlive/2023/texmf-dist/tex/latex/tools/bm.sty" 1708228736 13231 2c742011581e2bf297e33520567d9464 ""
+  "c:/texlive/2023/texmf-dist/tex/platex/jsclasses/jsarticle.cls" 1708226348 61387 1c16fa09f9aa344f6b7ed4a7e2c399b2 ""
+  "c:/texlive/2023/texmf-dist/web2c/texmf.cnf" 1708223709 41009 84b61f42d16d06bedb915f57aa2374cf ""
+  "c:/texlive/2023/texmf-var/web2c/pdftex/latex.fmt" 1708229405 6861176 fb78ec0f7ac58dc1c4189970e6a469ec ""
+  "c:/texlive/2023/texmf.cnf" 1708229202 713 e69b156964470283e0530f5060668171 ""
+  "out/test.aux" 1708252957 8 a94a2480d3289e625eea47cd1b285758 "latex"
+  "test.tex" 1708252410 240 864e99f8dd5f815b7c541c6e5bcd6ab3 ""
+  (generated)
+  "out/test.aux"
+  "out/test.dvi"
+  "out/test.log"
+  (rewritten before read)
