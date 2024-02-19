@@ -1,4 +1,5 @@
 \documentclass[a4]{jsarticle}
+\usepackage{amsmath}
 \begin{document}
 \title{練習１}
 
@@ -16,4 +17,37 @@ $c(t)=(x(t),y(t),z(t))$によって与えられる空間曲線$c$の$c(0)$を始
 
 と表される。
 
+
+\title{練習３}
+$関数fが開区間I上でn回微分可能であるとする．このとき，a,b \in Iに対し，$
+
+\[f(b)=f(a)+\frac{f'(a)}{1!}(b-a)+\frac{f''(a)}{2!}(b-a)^2+\cdots +\frac{f^{(n-1)}(a)}{(n-1)!}(b-a)^{n-1} +R_n (c)\]
+$を満たすcがaとbの間に存在する．$
+
+
+\title{練習４}
+$m次正方行列$
+
+\[J(\alpha　,m)= \left[\begin{array}{rrrrr}
+  \alpha & 1 & 0 & \cdots & 0 \\
+  0 & \alpha & 1 & \ddots & \vdots \\
+  \vdots & \ddots & \ddots & \ddots & 0 \\
+  \vdots &  & \ddots & \ddots & 1 \\
+  0 & \cdots & \cdots & 0 & \alpha
+\end{array}\right]
+\]
+
+$をJordan細胞と呼ぶ．正方行列Aが正則行列Pによって$
+
+\begin{align}
+  P^{-1}AP &= J(\alpha_1,m_1)\oplus J(\alpha_2,m_2)\oplus\cdots\oplus J(\alpha_k,m_k)\\
+  &=\left[\begin{array}{rrrr}
+    J(\alpha_1,m_1) & & & \\
+    & J(\alpha_2,m_2) & & \\
+    & & \ddots & \\
+    & & & J(\alpha_k,m_k)
+  \end{array}\right]
+\end{align}
+
+$とjordan細胞の直和になるとき，これをAのJordan標準形と呼ぶ．$
 \end{document}
